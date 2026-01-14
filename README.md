@@ -8,7 +8,7 @@ Welcome to AI Spotlight — a curated list of the latest and trending AI researc
 </div>
 
 
-### 2026-01-14
+### 2026-01-13
 
 
 **[SAM 3D: 3Dfy Anything in Images](https://huggingface.co/papers/2511.16624)** NEW
